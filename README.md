@@ -5,25 +5,16 @@
 
 ## 🌱 Preview 🌱
 
-<img src="https://raw.githubusercontent.com/Chavda2772/card-expanding/main/images/Expanding_cards-min.jpg" alt="Card Exapnd Image" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/Chavda2772/modernDesignForm/main/images/form_label_input-min.jpg" alt="modern Form" width="400" height="400" />
 
 ## :balance_scale:Features:balance_scale:
 
 - Responsive design.
-- images are as per device resolution.
-- Displayed images are Random.
-- Displayed images changes on every refresh.
-- In mobile device cards are displyed in column.
-
-## :crossed_swords: Technical Brief Description :crossed_swords:
-
-- on page load images fetch from API and added to card dynamically.
-- on Click event of card add active css class to card .
-- unsplash API is used to get random images every Time.
+- simple morden login form
 
 ## :chains: Live Demo :chains:
 
-- [Card Expanding DEMO](http://maheshchavda.ml/projects/cardExpanding/index.html).
+- [Morden Form DEMO](https://maheshchavda.ml/projects/mordenInputForm/index.html).
 
 ## 💬 Local Site 💬
 
