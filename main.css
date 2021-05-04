@@ -39,7 +39,7 @@ body {
 }
 
 .input-control label::before {
-  content: '',
+  content: "";
   height: 10px;
   width: 10px;
   background-color: red;
